@@ -1,0 +1,11 @@
+campaign_id,campaign_name,channel
+1,Brand Search,Paid Search
+2,Generic Search,Paid Search
+3,Competitor Search,Paid Search
+4,Instagram Awareness,Social
+5,Facebook Retargeting,Social
+6,LinkedIn Leadgen,Social
+7,Newsletter Promo,Email
+8,Webinar Invite,Email
+9,YouTube Display,Display
+10,Partner Banners,Display
